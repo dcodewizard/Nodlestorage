@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Firebase
+service-firebase.json
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+logs/
+results/
+
+# dotenv environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binary addons
+/build/
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# IDE
+.idea/
+.DS_Store
+
